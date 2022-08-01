@@ -3,9 +3,36 @@
 - 🌱 I’m currently learning 3rd year in Electrical Engineering at IIT Bhubaneswar.
 - 💞️ I want to get a job in Product based companies. 
 - 💞️ I’m looking to collaborate on Machine Learning Projects and Web Development Projects.
+-  My Skills:
+    - Programming Languages
+      - C 
+      - C++
+      - Python
+    - Developement 
+      - HTML
+      - CSS
+      - Javascript
+    - Softwares and Frameworks
+      - Bootstrap
+      - Python Modules
+        - Pandas
+        - NLTK
+        - Matplotlib
+        - Pygame
+        - Turtle
+        - Tkinter
+    - Developer Tools
+      - Git
+      - Github
+      - VS Code
+    - Academic
+      - MATLAB
+      - AutoCAD
+      - Logisim
+      - Iverilog
 - 📫 How to reach me: 
-- Mail - yakkalurusathvik1@gmail.com
-- Linkedin - https://www.linkedin.com/in/yakkaluru-sathvik-04b53a213/
+  - Mail - yakkalurusathvik1@gmail.com
+  - Linkedin - https://www.linkedin.com/in/yakkaluru-sathvik-04b53a213/
 
 <!---
 YakkaluruSathvik/YakkaluruSathvik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
