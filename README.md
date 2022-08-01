@@ -5,31 +5,17 @@
 - 💞️ I’m looking to collaborate on Machine Learning Projects and Web Development Projects.
 -  My Skills:
     - Programming Languages
-      - C 
-      - C++
-      - Python
+      - C, C++, Python
     - Developement 
-      - HTML
-      - CSS
-      - Javascript
+      - HTML, CSS, Javascript
     - Softwares and Frameworks
       - Bootstrap
       - Python Modules
-        - Pandas
-        - NLTK
-        - Matplotlib
-        - Pygame
-        - Turtle
-        - Tkinter
-    - Developer Tools
-      - Git
-      - Github
-      - VS Code
+        - Pandas, NLTK, Matplotlib, Pygame, Turtle, Tkinter
+    - Version Control & Developer Tools
+      - Git, Github, VS Code
     - Academic
-      - MATLAB
-      - AutoCAD
-      - Logisim
-      - Iverilog
+      - MATLAB, AutoCAD, Logisim, Iverilog
 - 📫 How to reach me: 
   - Mail - yakkalurusathvik1@gmail.com
   - Linkedin - https://www.linkedin.com/in/yakkaluru-sathvik-04b53a213/
