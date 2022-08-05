@@ -7,9 +7,9 @@
     - Programming Languages
       - C, C++, Python
     - Developement 
-      - HTML, CSS, Javascript, Node.js
+      - HTML, CSS, Javascript
+      - Bootstrap, jQuery, Node.js, Expess.js
     - Softwares and Frameworks
-      - Bootstrap, jQuery, Expess.js
       - Python Modules
         - Pandas, NLTK, Matplotlib, Pygame, Turtle, Tkinter
     - Version Control & Developer Tools
