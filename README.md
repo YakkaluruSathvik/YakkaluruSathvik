@@ -16,6 +16,12 @@
       - Git, Github, VS Code
     - Academic
       - MATLAB, AutoCAD, Logisim, Iverilog
+    <br>
+
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/ysathvik/count.svg?align=center)
+ 
 - 📫 How to reach me: 
   - Mail - yakkalurusathvik1@gmail.com
   - Linkedin - https://www.linkedin.com/in/yakkaluru-sathvik-04b53a213/
