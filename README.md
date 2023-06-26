@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @YakkaluruSathvik
-- 👀 I’m interested in Web Development, Programming, Machine Learning, Computer Vision and Blockchain Technology.
-- 🌱 I’m currently learning 3rd year in Electrical Engineering at IIT Bhubaneswar.
-- 💞️ I want to get a job in Product based companies. 
-- 💞️ I’m looking to collaborate on Machine Learning Projects and Web Development Projects.
--  My Skills:
+<h2 align=center>👋 Good to have you here!!</h2>
+
+**About myself**<br>
+
+ Hi, I’m @YakkaluruSathvik <br>
+ I’m interested in Web Development, Programming, Machine Learning, Computer Vision, and Blockchain Technology.<br>
+ I’m currently learning 3rd year in Electrical Engineering at IIT Bhubaneswar.<br>
+ I want to get a job in Product based companies. <br>
+ I’m looking to collaborate on Machine Learning Projects and Web Development Projects.<br>
+
+![](https://komarev.com/ghpvc/?username=ysathvik&label=Profile+Views) <br> 
+
+**My Skills**<br>
     - Programming Languages
       - C, C++, Python
     - Developement 
@@ -18,11 +25,7 @@
       - MATLAB, AutoCAD, Logisim, Iverilog
     <br>
 
-<!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ysathvik/count.svg?align=center)
- 
-- 📫 How to reach me: 
+ 📫 How to reach me: <br>
   - Mail - yakkalurusathvik1@gmail.com
   - Linkedin - https://www.linkedin.com/in/yakkaluru-sathvik-04b53a213/
 
