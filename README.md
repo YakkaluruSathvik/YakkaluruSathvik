@@ -12,20 +12,16 @@
 
 ![](https://komarev.com/ghpvc/?username=ysathvik&label=Profile+Views) <br> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YakkaluruSathvik&layout=compact&theme=tokyonight)
+
 **My Skills**<br>
- - Programming Languages
-   - C, C++, Python
- - Development 
-   - HTML, CSS, Javascript
-   - Bootstrap, jQuery, Node.js, Expess.js
- - Software and Frameworks
-   - Python Modules
-     - Pandas, NLTK, Matplotlib, Pygame, Turtle, Tkinter
- - Version Control & Developer Tools
-   - Git, Github, VS Code
- - Academic
-   - MATLAB, AutoCAD, Logisim, Iverilog
+ - Programming Languages: C, C++, Python
+ - Web Development: HTML, CSS, Javascript, Bootstrap, jQuery, Node.js, Expess.js
+ - Software and Frameworks: Pandas, NLTK, Matplotlib, Pygame, Turtle, Tkinter
+ - Version Control & Developer Tools: Git, Github, VS Code
  <br>
+
+![Sathvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YakkaluruSathvik&show_icons=true&theme=tokyonight)
 
  **How to reach me:** <br>
  
